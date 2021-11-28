@@ -31,6 +31,7 @@ Cascading Style Sheets (CSS) -  is a simple mechanism for adding styles (e.g., f
 saves a lot of work. It can control the layout of multiple web pages all at once. PHP is a server-side scripting language. that is used to develop Static websites or Dynamic websites or Web
 applications. PHP stands for Hypertext Preprocessor, which earlier stood for Personal Home Pages. PHP scripts can only be interpreted on a server that has PHP installed.
 As mentioned above HTML CSS and PHP are the languages used in this project. As php is server-side language it requires a server to be interpreted. Therefore, we have used WAMP server.
+
 WAMP SERVER: WampServer refers to a software stack for the Microsoft Windows operating system, created by Romain Bourdon and consisting of the Apache web server, MySQL database and PHP programming language.
 
 The database language used in our project,
@@ -41,7 +42,7 @@ Advantages of MySQL:
 • High speed, using the SQL queries, the user can quickly and efficiently retrieve a large amount of records from a database.
 • In the SQL standard, it is very easy to manage the database system.
 
-RESULTS
+RESULTS - 
 Below are some of the results/consequences obtained from this online food ordering management system software:
 • Offering Online food ordering helps the customers to place order more conveniently.
 • Traditional long queues to fetch the food or the take-outs will no longer exist.
@@ -49,15 +50,16 @@ Below are some of the results/consequences obtained from this online food orderi
 • Labor work is almost reduced.
 • Also, people can have food from their favorite restaurants. Just ‘one click’ and their favorite  restaurants delicious food will be right at the door. 
 
-CONCLUSIONS
+CONCLUSIONS - 
 In this paper, we have presented that why and how the online food ordering systems can be used and built. This online food ordering systems is built for the customers who are dealing with busy lives, this could help them to save
 some of their time. With private login system customer can place a secure online order and also can view or receive the updates in real-time. It allows the customers to navigate
 through the menus and customize their orders. Our experience in developing this software was to show the abilities of wireless communication and in refining the
 business management and decent service delivery. Generally, the customers who keep on visiting the restaurants are facing problems may be in terms of time,
 weather, etc. By this application the customer can access their adored food in their place itself. Moreover, thisapplication is useful to all the introverts who hesitate to
 interact with others. This application does not take muchtime to order or the delivery of food. It is very simple to useand it gives an efficient way also.This designed project is customer friendly and can be used efficiently for storing the customer details, orders, payment options, etc. Thus, this system is user-friendly, convenient
-REFERENCES
-[1]. Trupthi B, Rakshitha Raj R, J B Akshaya, Srilaxmi C P,” Online food ordering system”, International Journal of Recent Technology and Engineering (IJRTE) ISSN: 22773878, Volume-8, Issue-2S3, 2019.
+
+REFERENCES - 
+[1] Trupthi B, Rakshitha Raj R, J B Akshaya, Srilaxmi C P,” Online food ordering system”, International Journal of Recent Technology and Engineering (IJRTE) ISSN: 22773878, Volume-8, Issue-2S3, 2019.
 [2]. Adithya. R., A. Singh, S. Pathan, and V. Kanade, “Online Food Ordering System,” Int. J. Comput. Appl., vol. 180, no. 6, pp. 22–24, 2017.
 [3]. “Fundamentals of Database System” by Ramnez Elmarsi, Shamkant B Navathe, 4th edition.
 [4]. Sainath Reddy K, Chaitanya KGK, Abhinav M and Feiroz  Khan TH “An Online Food Court Ordering System”, Journal  of Information Technology & Software Engineering, 2016 
